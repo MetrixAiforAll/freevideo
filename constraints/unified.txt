@@ -1,6 +1,6 @@
 # Shared Engine and native H3 encoder; Torch wheels come from the cu130 index.
 # Measured together; native source, Diffusers and Sage2 are pinned separately.
-accelerate==1.14.0
+accelerate==1.15.0
 annotated-doc==0.0.5
 antlr4-python3-runtime==4.9.3
 anyio==4.15.1
@@ -52,7 +52,7 @@ nvidia-nvtx==13.0.85
 omegaconf==2.3.1
 packaging==26.3
 peft==0.20.0
-pillow==12.3.0
+pillow==13.0.0
 pip==26.2.1
 psutil==7.2.2
 pygments==2.21.0

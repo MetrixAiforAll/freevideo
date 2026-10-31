@@ -1,6 +1,6 @@
 # Native Windows unified environment; Torch wheels come from the cu130 index.
 # Consumer-GPU results are supplied by users; Windows Sage2 wheel is pinned in bootstrap_versions.json.
-accelerate==1.14.0
+accelerate==1.15.0
 annotated-doc==0.0.5
 antlr4-python3-runtime==4.9.3
 anyio==4.15.1
@@ -37,7 +37,7 @@ numpy==2.5.2
 omegaconf==2.3.1
 packaging==26.3
 peft==0.20.0
-pillow==12.3.0
+pillow==13.0.0
 pip==26.2.1
 psutil==7.2.2
 pygments==2.21.0
